@@ -2,7 +2,7 @@ window.addEventListener('load',makeSynopsis, false);
 
 var initImage; // 시놉시스에 나오는 배경화면 이미지
 
-var explain; // 추후 Font 입히고, Text로 변환해야 해요.
+var explain;
 
 function makeSynopsis() { // 시놉시스를 만드는 함수.
     initImage = new Image();
